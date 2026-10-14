@@ -19,3 +19,7 @@ Final commit
 # My test branch
 
 Here is some text for the test branch 
+
+# My new test branch
+
+More text
